@@ -2,7 +2,6 @@
 
 Project builds with LLVM v21 and cmake 3.28.3 (minimum)
 Building LLVM from scratch: https://llvm.org/docs/GettingStarted.html#getting-the-source-code-and-building-llvm
-![image](https://github.com/user-attachments/assets/666db4a3-d5cf-46c7-99ce-248cd8cd85f4)
 
 
 Exercise Flow:
